@@ -15,4 +15,4 @@
 This project demonstrates frontend fundamentals including state management, API integration, and component-based architecture.
 
 ## 🔗 Live Demo
-(Will add after deployment)
+(https://react-task-manager-beta-taupe.vercel.app)
